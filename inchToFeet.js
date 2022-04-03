@@ -15,10 +15,19 @@
 // console.log(apu , "apu");
 
 
-function inchToFeet(inch) {
-    var feet = inch/10;
+// function inchToFeet(inch) {
+//     var feet = inch/10;
+//     return feet;
+// }
+
+// abbu = inchToFeet(100);
+// console.log(abbu);
+
+
+function inchToFeet(inch){
+    feet = inch/12;
     return feet;
 }
 
-abbu = inchToFeet(100);
+abbu = inchToFeet(255);
 console.log(abbu);

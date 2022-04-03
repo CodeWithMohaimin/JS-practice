@@ -9,7 +9,22 @@
 // }
 
 
-var myName = "Programmer Mohaimin";
-if (myName.length > 12) {
-    console.log("Your Name is changed now your name is mohaimin ");
+// var myName = "Programmer Mohaimin";
+// if (myName.length > 12) {
+//     console.log("Your Name is changed now your name is mohaimin ");
+// }
+
+let myName = "Programmer Mohaimin";
+if(myName.length > 55){
+    console.log("Name is up to 15");
+}else{
+    console.log("Programmer Mohaimin");
 }
+
+
+
+
+
+
+
+
